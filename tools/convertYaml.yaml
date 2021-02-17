@@ -1,4 +1,4 @@
-API: http://192.168.225.107:9999/V3/ad/create.json
+API: http://192.168.0.104:9999/V3/ad/create.json
 DB_Clear: []
 DB_Insert: []
 cases:

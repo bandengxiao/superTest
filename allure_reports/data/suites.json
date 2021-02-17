@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "cases",
+    "children" : [ {
+      "name" : "Test_ad_create",
+      "children" : [ {
+        "name" : "Test_ad_create",
+        "children" : [ {
+          "name" : "创建计划1",
+          "uid" : "ec9543812551ada5",
+          "parentUid" : "5f80f6634716b54d24d3b5a5ffe51dc5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613533884237,
+            "stop" : 1613533884295,
+            "duration" : 58
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'创建计划1'", "''", "''", "'{\"caller_source\": 1, \"campaign_id\": 3340071, \"fe_version\": \"2.0.1\", \"fe_is_edit\": true, \"fe_is_copy\": false, \"fe_is_self_obj_url\": false, \"fe_is_ghost\": false, \"mid_source\": 0, \"objective\": 88030003, \"fe_app_type\": null, \"fe_app_id\": null, \"optimization_goal\": 86006001, \"target_explicit_content_targeting\": 0, \"target_template_id\": null, \"fe_daily_budget_type\": 1, \"billing_type\": 1, \"schedule_delivery_type\": 2, \"schedule_start_time\": \"2021-02-28 00:00:00\", \"schedule_stop_time\": \"2021-03-28 00:00:00\", \"schedule_daily_delivery_type\": 3, \"name\": \"create_first_test_ad\", \"deliver_scope\": 2, \"convert_goal\": [89001001], \"subject_obj_type\": 1, \"subject_obj_url\": {\"url\": \"https://lingdong.biz.weibo.com/a/2608812381/2186382339027965/index.html\", \"site_id\": \"2186382339027965\", \"type\": 2}, \"fe_age_type\": 0, \"target_genders\": 401, \"fe_locations_label\": 0, \"target_user_os\": [], \"target_user_network\": [3], \"fe_audience_list\": 0, \"fe_account_list\": 0, \"fe_interests_list\": 0, \"target_exp_convert_account\": 0, \"target_login_frequency\": [210001], \"fe_user_device\": 0, \"target_mobile_price\": [90201000], \"target_new_account_type\": [220001], \"daily_budget\": \"999.00\", \"ocpx_bid_amount\": \"32.00\", \"fe_schedule_range\": [\"2021-02-28 00:00:00\", \"2021-03-28 00:00:00\"], \"schedule_hourly_per_week\": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], [], [], [], [], [], []], \"target_is_enlarge\": false, \"fe_auto_message\": false, \"transform_goal\": 86005001}'" ]
+        }, {
+          "name" : "创建计划1",
+          "uid" : "cbf4088ffb11b570",
+          "parentUid" : "5f80f6634716b54d24d3b5a5ffe51dc5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613533884310,
+            "stop" : 1613533884320,
+            "duration" : 10
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'创建计划1'", "''", "''", "'{\"caller_source\": 1, \"campaign_id\": 3340071, \"fe_version\": \"2.0.1\", \"fe_is_edit\": true, \"fe_is_copy\": false, \"fe_is_self_obj_url\": false, \"fe_is_ghost\": false, \"mid_source\": 0, \"objective\": 88030003, \"fe_app_type\": null, \"fe_app_id\": null, \"optimization_goal\": 86006001, \"target_explicit_content_targeting\": 0, \"target_template_id\": null, \"fe_daily_budget_type\": 1, \"billing_type\": 1, \"schedule_delivery_type\": 2, \"schedule_start_time\": \"2021-02-28 00:00:00\", \"schedule_stop_time\": \"2021-03-28 00:00:00\", \"schedule_daily_delivery_type\": 3, \"name\": \"create_first_test_ad\", \"deliver_scope\": 2, \"convert_goal\": [89001001], \"subject_obj_type\": 1, \"subject_obj_url\": {\"url\": \"https://lingdong.biz.weibo.com/a/2608812381/2186382339027965/index.html\", \"site_id\": \"2186382339027965\", \"type\": 2}, \"fe_age_type\": 0, \"target_genders\": 401, \"fe_locations_label\": 0, \"target_user_os\": [], \"target_user_network\": [3], \"fe_audience_list\": 0, \"fe_account_list\": 0, \"fe_interests_list\": 0, \"target_exp_convert_account\": 0, \"target_login_frequency\": [210001], \"fe_user_device\": 0, \"target_mobile_price\": [90201000], \"target_new_account_type\": [220001], \"daily_budget\": \"999.00\", \"ocpx_bid_amount\": \"32.00\", \"fe_schedule_range\": [\"2021-02-28 00:00:00\", \"2021-03-28 00:00:00\"], \"schedule_hourly_per_week\": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], [], [], [], [], [], []], \"target_is_enlarge\": false, \"fe_auto_message\": false, \"transform_goal\": 86005001}'" ]
+        } ],
+        "uid" : "5f80f6634716b54d24d3b5a5ffe51dc5"
+      } ],
+      "uid" : "f3c221ada37be75c657002f35a5cc59e"
+    } ],
+    "uid" : "9614ab5598a04b276864cf0744ce0d93"
+  } ]
+}

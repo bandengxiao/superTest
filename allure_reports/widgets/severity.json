@@ -1,0 +1,21 @@
+[ {
+  "uid" : "cbf4088ffb11b570",
+  "name" : "创建计划1",
+  "time" : {
+    "start" : 1613533884310,
+    "stop" : 1613533884320,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec9543812551ada5",
+  "name" : "创建计划1",
+  "time" : {
+    "start" : 1613533884237,
+    "stop" : 1613533884295,
+    "duration" : 58
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

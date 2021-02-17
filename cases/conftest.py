@@ -1,7 +1,8 @@
 import pytest
 
-from action.BaseTest import baseTest
-from conf.globalConf import globalConf
+
+
+
 # '''
 # 1、可以跨.py文件调用，有多个.py文件调用时，可让conftest.py只调用了一次fixture，或调用多次fixture
 #
@@ -37,8 +38,10 @@ from conf.globalConf import globalConf
 #
 # conftest中fixture的scope参数为function，所有文件的测试用例执行前都会执行一次conftest文件中的fixture
 # '''
+from ac.base import BaseTest
+
 
 @pytest.fixture(scope='function', autouse=True)
 def setCookies():
-    baseTest.setCookie()
+    BaseTest.setCookie()
 
